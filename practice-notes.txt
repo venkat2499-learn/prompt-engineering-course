@@ -1,3 +1,4 @@
 This file was added during CLI Git practice. I dont know to say this but I love cats LOL
 Learning clone, pull, commit, and push.
 I now understand that commit is local and push sends commits to GitHub.
+Now I am testing through source control
