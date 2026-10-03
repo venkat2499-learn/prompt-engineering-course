@@ -1,5 +1,4 @@
 # Forking & Branching Practice
-
 I created this file on a separate Git branch.
 
 - My fork is stored under my GitHub account.
